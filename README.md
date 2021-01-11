@@ -1,0 +1,1 @@
+# HS-Harz-Bildverarbeitung-Labor
